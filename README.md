@@ -14,3 +14,4 @@ The key technologies used to build the dashboard.
 
 Snapshot 
 
+Link - https://github.com/pryansh0007/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
